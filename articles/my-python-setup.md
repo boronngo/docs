@@ -1,9 +1,9 @@
 ---
 title: "おすすめのPythonの環境構築まとめ"
 emoji: "🐍"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "tech"
 topics: ["Python", "VSCode", "poetry"]
-published: false
+published: true
 ---
 
 # おすすめのPythonの環境構築まとめ
